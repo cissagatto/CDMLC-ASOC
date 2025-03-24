@@ -9,7 +9,7 @@ Previous work in wich this on is based and extended [repository](https://github.
 - [Code](https://github.com/cissagatto/CrossValidationMultiLabel) to create the 10-Fold Cross Validation for each dataset. You can download our data splits [here](https://drive.google.com/drive/folders/16t1rRptgULrM20IFItC_HlPJrmFZbIzH?usp=sharing). 
 
 *Step 2: Modeling Label Correlations*
-- [SimilaritiesMultiLabel](https://github.com/cissagatto/SimilaritiesMultiLabel) to compute similarities measures {OR [https://github.com/cissagatto/MultiLabelSimilaritiesMeasures];}
+- [SimilaritiesMultiLabel](https://github.com/cissagatto/SimilaritiesMultiLabel) to compute similarities measures
 - [GraphMultiLabel](https://github.com/cissagatto/GraphMultiLabel) to build the label co-occurrence graphs.
 
 *Step 3: Applying Communities Detection Methods*
