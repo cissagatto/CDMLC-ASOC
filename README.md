@@ -1,7 +1,7 @@
 # CDMLC
 Repository for the paper "Community Detection for Multi-Label Classification" published in the journal "Applied Soft Computing"
 
-Please, for now, check this [repository](https://github.com/cissagatto/Bracis2023)
+Previous work in wich this on is based and extended [repository](https://github.com/cissagatto/Bracis2023)
 
 ## SOURCE CODE
 
