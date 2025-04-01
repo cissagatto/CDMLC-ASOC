@@ -16,14 +16,14 @@ Previous work in wich this on is based and extended [repository](https://github.
 - [GeneratePartitionsCommunities](https://github.com/cissagatto/Generate-Partitions-Communities) to generate partitions from the communities.
 
 *Steps 4, 5, and 6: Build, validate, chose, and test hybrid partitions*
-- [Code](https://github.com/cissagatto/TCP-KNN-H-Clus) for Sparsification with KNN + Hierarchical Methods 
-- [Code](https://github.com/cissagatto/TCP-KNN-NH-Clus) for Sparsification with KNN + Non Hierarchical Methods
-- [Code](https://github.com/cissagatto/TCP-TR-H-Clus) for Sparsification with Threshold + Hierarchical Methods
-- [Code](https://github.com/cissagatto/TCP-TR-NH-Clus) for Sparsification with Threshold + Non Hierarchical Methods
+- [Code](https://github.com/cissagatto/TcpKnnH) for Sparsification with KNN + Hierarchical Methods 
+- [Code](https://github.com/cissagatto/TcpKnnNh) for Sparsification with KNN + Non Hierarchical Methods
+- [Code](https://github.com/cissagatto/TcpTrH) for Sparsification with Threshold + Hierarchical Methods
+- [Code](https://github.com/cissagatto/TcpTrNh) for Sparsification with Threshold + Non Hierarchical Methods
 
 *Code for Global, Local, and Random Partitions*
-- [Global](https://github.com/cissagatto/Global-Partitions)
-- [Local](https://github.com/cissagatto/Local-Partitions)
-- [Generate Random Graphs](https://github.com/cissagatto/Generate-Random-Communities)
-- [Test Random Graph + Hierarchical Methods](https://github.com/cissagatto/TCP-Random-H-Clus)
-- [Test Random Graph + Non Hierarchical Methods](https://github.com/cissagatto/TCP-Random-NH-Clus)
+- [Global](https://github.com/cissagatto/GlobalPartitions)
+- [Local](https://github.com/cissagatto/LocalPartitions)
+- [Generate Random Graphs](https://github.com/cissagatto/GenerateRandomCommunities)
+- [Test Random Graph + Hierarchical Methods](https://github.com/cissagatto/TcpRandomH)
+- [Test Random Graph + Non Hierarchical Methods](https://github.com/cissagatto/TcpRandomNh)
