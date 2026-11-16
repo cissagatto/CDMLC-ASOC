@@ -1,7 +1,9 @@
 # CDMLC
-Repository for the paper "Community Detection for Multi-Label Classification" published in the journal "Applied Soft Computing"
+Repository for the paper "Community Detection for Modeling Label Correlations in Multi-Label Classification" published in the journal "Applied Soft Computing"
 
 Previous work in wich this on is based and extended [repository](https://github.com/cissagatto/Bracis2023)
+
+https://www.sciencedirect.com/science/article/abs/pii/S1568494626023082
 
 ## SOURCE CODE
 
